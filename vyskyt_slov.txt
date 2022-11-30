@@ -1,0 +1,3 @@
+[(16, 'úsudok'), (16, 'úrovni'), (16, 'úlohy'), (16, 'zásobu'), (16, 'zaujíma'), (16, 'vıbornı'), (16, 'vıbornej'), (16, 'vie'), (16, 'viac'), (16, 'vedomia'), (16, 'svojho'), (16, 'správne'), (16, 'slovnú'), (16, 'sa'), (16, 'rıchla'), (16, 'rozširovanie'), (16, 'rieši'), (16, 'problémové'), (16, 'presná'), (16, 'poèítaní'), (16, 'ovláda'), (16, 'nasadením'), (16, 'myslenie'), (16, 'mal'), (16, 'logickı'), (16, 'logické'), (16, 'je'), (16, 'jazyk'), (16, 'historického'), (16, 'gramatiku'), (16, 'bohatú'), (16, 'aplikova')]
+
+19%
